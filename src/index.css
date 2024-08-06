@@ -26,3 +26,7 @@ body{
   background-color: rgb(0, 0, 0);
   color: #eee;
 }
+*{
+  margin: 0;
+  padding: 0;
+}

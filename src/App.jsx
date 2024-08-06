@@ -14,7 +14,7 @@ const App = () => {
     return (
         <Router>
             <Navbar />
-            <div style={{marginLeft:'350px'}}>
+            <div style={{marginLeft:'317px'}}>
                 <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/explore" element={<Explore />} />

@@ -1,6 +1,6 @@
 .navbar {
     margin: 0;
-    width: 285px;
+    width: 263px;
     height: 100vh;
     color: #fff;
     position: fixed;
@@ -10,9 +10,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    padding-left: 2rem;
-    border-right: 1px solid #333;
+    padding-left: 3.4rem;
+    padding-top: 0.8rem;
+    border: 1px solid #333;
 }
 .navList {
     list-style: none;
@@ -21,11 +21,11 @@
     display: flex;
     flex-direction: column;
     font-weight: bold;
-    padding-left: 1.9rem;
+    font-size: 24px;
 }
 
 .navItem {
-    margin: 0.7rem 0;
+    margin: 0.5rem 0;
 }
 .navLink {
     color: #fff;
@@ -35,17 +35,20 @@
 
 .navIcon{
     background-color: rgb(29, 155, 241);
-    width: 16vw;
-    height: 4vw;
+    width: 15.7vw;
+    height: 3.8vw;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 30px;
     font-weight: bold;
-    margin-bottom: 2rem;
+    margin-top: 0.3rem;
+    margin-bottom: 1.5rem;
+    margin-left: -4rem;
 }
 .logoIconTwitter{
-    width: 17%;
+    width: 16.5%;
+    border-radius: 50%;
 }
 
 /* notifatication style */

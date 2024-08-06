@@ -1,2 +1,2 @@
 # Twitter Clone
-This shows good twitter UI clone by React.js and css  uses [Twitter-clone](https://good-twitter-clone.vercel.app/)  
+This is a cool Twitter clone created by using React.JS & CSS. check it out [Twitter-clone](https://good-twitter-clone.vercel.app/)  
